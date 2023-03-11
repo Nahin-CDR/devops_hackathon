@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:dev_ops/custom_widgets/home.dart';
+import 'package:dev_ops/custom_widgets/splash.dart';
 import 'package:dev_ops/utils/routes/routes_name.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
